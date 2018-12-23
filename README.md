@@ -8,6 +8,6 @@ Via command to Telegram bot you can:
   3. Change routing settings of number
 
 ### Command list
-  /status ```Check balance and routing settings```
-  /sip_on ```Change calls routing to SIP```
-  /sip_off ```Change calls routing to GSM```
+  */status ```Check balance and routing settings```*
+  */sip_on ```Change calls routing to SIP```*
+  */sip_off ```Change calls routing to GSM```*
