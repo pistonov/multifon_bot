@@ -14,5 +14,6 @@ Via command to Telegram bot you can:
   
   */sip_off ```Change calls routing to GSM```*
 
+
 ### TO DO
   Monitoring balance and routing settings
