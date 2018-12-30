@@ -1,5 +1,5 @@
-# Multifon_bot
-Telegram bot for Multifon(Megafon) control.
+# multifon_bot
+Telegram Bot control of Multifon(Megafon) service.
 https://multifon.megafon.ru/
 
 Via command to Telegram bot you can:
